@@ -1,7 +1,5 @@
 # Speech Emotion Recognition using MFCC and CNN
 
-## CodeAlpha Machine Learning Internship - Task 2
-
 ---
 
 ## Project Overview
@@ -351,7 +349,6 @@ CodeAlpha_Emotion_Recognition/
 +-- main.py
 +-- requirements.txt
 +-- README.md
-+-- .gitignore
 ```
 
 ---
