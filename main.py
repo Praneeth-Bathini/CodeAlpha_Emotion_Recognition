@@ -23,7 +23,6 @@ from tensorflow.keras import layers, models, callbacks
 warnings.filterwarnings("ignore")
 
 # ============================================================
-# CODEALPHA - TASK 2
 # SPEECH EMOTION RECOGNITION
 # MFCC + DELTA + DELTA-DELTA + CNN
 # ============================================================
