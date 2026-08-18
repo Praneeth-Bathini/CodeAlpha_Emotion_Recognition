@@ -6,9 +6,7 @@ import numpy as np
 import librosa
 import tensorflow as tf
 
-
 # ============================================================
-# CODEALPHA - TASK 2
 # SPEECH EMOTION PREDICTION
 # MFCC + DELTA + DELTA-DELTA + CNN
 # ============================================================
@@ -26,7 +24,6 @@ SAMPLE_RATE = 16000
 N_MFCC = 40
 
 MAX_FRAMES = 174
-
 
 # ============================================================
 # FEATURE EXTRACTION
