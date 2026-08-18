@@ -1,0 +1,23 @@
+Speech Emotion Recognition
+
+MFCC + Delta + Delta-Delta + CNN
+
+Accuracy : 0.3111
+Precision: 0.6458
+Recall   : 0.3111
+F1-Score : 0.2790
+
+              precision    recall  f1-score   support
+
+       angry       0.00      0.00      0.00        24
+        calm       0.50      0.46      0.48        24
+     disgust       1.00      0.12      0.22        24
+     fearful       1.00      0.17      0.29        24
+       happy       0.28      0.79      0.41        24
+     neutral       0.14      0.83      0.24        12
+         sad       1.00      0.04      0.08        24
+   surprised       1.00      0.33      0.50        24
+
+    accuracy                           0.31       180
+   macro avg       0.61      0.34      0.28       180
+weighted avg       0.65      0.31      0.28       180
