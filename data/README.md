@@ -47,8 +47,6 @@ data/
     ├── ...
     └── Actor_24/
 
-The dataset itself is not included in this GitHub repository because of its size.
-
 ### License and Attribution
 
 RAVDESS is released under the
